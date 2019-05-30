@@ -2,7 +2,7 @@
 
 _Efficiently describe and present recipes for easy reference._
 
-This tool parses recipes in a standardized JSON format and renders them in Latex to PDFs. An example of the format of the JSON recipe files:
+This tool parses recipes in a standardized JSON format, produces human-readable Latex, then renders them as PDFs. An example of the format of the JSON recipe files:
 
 ```json
 {
