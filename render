@@ -1,0 +1,4 @@
+#!/bin/bash
+./recipe_render.py $(ls json/*.json)
+rm *.log *.aux *.tex
+mv *.pdf output/

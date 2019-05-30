@@ -1,0 +1,42 @@
+{
+  "dish_name": "Green Tea Soufflé",
+  "author": "Namiko Hirasawa Chen",
+  "source": "Just One Cookbook",
+  "notes": "Fluffy soufflé accented with matcha powder, this Green Tea Soufflé is simply irresistible! For a thorough visual guide, I recommend watching the video first (\\texttt{youtu.be/1WZFVU4-ZVE}). Recipe adapted from Gordon Ramsay's Raspberry soufflé. This recipe uses 1/2 cup (4 oz) ramekins.",
+  "ingredients": [
+    "\\textbf{For coating ramekins:}",
+    "1/2 Tbsp. unsalted butter, room temperature",
+    "4 tsp. sugar",
+    "\\textbf{For the custard:}",
+    "150mL milk",
+    "100mL heavy cream",
+    "3 large yolks",
+    "22g sugar",
+    "25g flour",
+    "2 Tbsp. matcha",
+    "\\textbf{For the meringue:}",
+    "3 egg whites",
+    "44g sugar",
+    "\\textbf{For dusting:}",
+    "1 Tbsp. powdered sugar"
+  ],
+  "method": [
+    "Gather all the ingredients. Preheat the oven to 390F (200C).",
+    "\\textit{For the ramekins:} Brush the ramekins with butter, using upward strokes. Put 1 tsp. sugar in each ramekin and rotate the ramekin to dust the insides with sugar. Remove excess sugar from the ramekin and chill in refrigerator to set (This gives the soufflés something to grip on to as the batter climbs up the sides of the ramekins during baking.).",
+    "\\textit{For the custard:} In a large bowl, beat the egg yolks and sugar together.",
+    "Sift the flour into the egg mixture and mix well.",
+    "Heat the milk and heavy cream in a small saucepan until almost boiling.",
+    "Add a splash of hot milk mixture into the egg mixture and whisk well until the mixture is smooth.",
+    "Then gradually whisk in the rest of the milk mixture.",
+    "Pour the mixture back into the saucepan. Whisk the mixture \\textit{at all times} over a medium-low heat for 3-4 minutes until thickened and smooth. \\textit{Keep whisking} during this process otherwise your custard will overcook and become clumpy.",
+    "When the custard has thickened, immediately transfer to a bowl to prevent carryover cooking. Cover with plastic wrap and cool to room temperature for about 30 minutes (or you can put in the fridge to make this process faster).",
+    "Once the custard has cooled down, sift matcha green tea powder into the custard.",
+    "\\textit{For the meringue:} Whisk the egg whites in a clean bowl till bubbles start to form (Kitchen Aid mixer Level 3 for 2 minutes).",
+    "Start adding sugar gradually, a spoonful at a time. Once you add all the sugar, increase the speed to Level 8 and whisk to make a firm, glossy meringue, about 3-4 minutes.",
+    "Whisk 1/3 of the meringue into the custard and mix until homogenous.",
+    "Very carefully fold in the rest of the meringue using a rubber spatula. Do not over mix.",
+    "Divide the soufflé mix into 4 ramekins. Tap them on the work surface to level the mixture and run the thumb around the edge.",
+    "Place the ramekins on a baking tray and bake for 12-15 minutes until well risen and slightly golden on top. The soufflé should wobble gently in the middle when it’s ready.",
+    "Dust with powdered sugar and place on a plate. Serve immediately."
+  ]
+}
