@@ -1,0 +1,25 @@
+{
+  "dish_name": "Baked Mac and Cheese",
+  "author": "Aryn",
+  "source": "Pam",
+  "notes": "Don't worry about precision on this one, the best way to get good mac and cheese is to try it a couple times and see what works. All the variables are here to play with: change the texture with differing amounts of milk, flour, and cheese; cooking times for the béchamel; and mixtures of cheeses.",
+  "ingredients": [
+    "Butter",
+    "Flour",
+    "Milk",
+    "Black pepper",
+    "Cheese (a mixture of high fat, tangy, nutty, and salty)",
+    "Corn flakes",
+    "Medium pasta shells (~1 to 1.5 cm in length)"
+  ],
+  "method": [
+    "Preheat the oven to like 350 or something.",
+    "Boil salted water. Start par-cooking the pasta; cook it for a couple mintes fewer than the package suggests becuase it'll cook more in the oven.",
+    "\\textit{Roux:} Melt the butter in a pan. When it is slightly hot (don't let it cook though), add a couple tablespoons of flour and mix it with the butter. Add just enough to make the mixture congeal into one soft clump, then cook until it slightly changes color. We're looking for the flour and butter to be cooked; this can be done to taste (a dark vs. a light roux).",
+    "\\textit{Béchamel:} Add milk and black pepper to the roux and whisk until it thickens slightly.",
+    "Add a bit more milk to loosen the texture, then add the cheeses. Continue iterating between adding cheese and milk until you get the desired texture and cheesiness (keep in mind that some moisture will bake out, and the gluten in the flour will continue to seize a little bit).",
+    "Mix together the pasta and goop in whatever you're baking this in (I usually use a loaf pan).",
+    "Crush the corn flakes and mix them with a little melted butter, then put a layer of these on top.",
+    "Bake for 20 - 30 minutes depending on the thickness."
+  ]
+}
