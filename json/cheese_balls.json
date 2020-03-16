@@ -1,0 +1,19 @@
+{
+  "dish_name": "Stuffed Cheese Balls",
+  "author": "Mary Nourse",
+  "source": "Pam",
+  "notes": "Makes 30 small balls.",
+  "ingredients": [
+    "1 cup grated cheddar cheese",
+    "30 small stuffed green olives",
+    "4 tablespoons soft butter",
+    "$\\frac{1}{4}$ teaspoon salt",
+    "$\\frac{1}{4}$ teaspoon paprika",
+    "$\\frac{1}{2}$ cup flour"
+  ],
+  "method": [
+    "Mix all ingredients except olives in a bowl until a dough-like mixture is formed.",
+    "Form dough in a ball around each olive.",
+    "Bake at 400F for 10-15 minutes."
+  ]
+}
