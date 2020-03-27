@@ -46,6 +46,8 @@ class Recipe(object):
             "\\documentclass[12pt]{article}\n\\usepackage[margin=1in,landscape]{geometry}\n"
         )
         texfile.write("\\usepackage{multicol}\n")
+        texfile.write("\\usepackage{fontspec}\n")
+        texfile.write("\\setmainfont[Ligatures={Common}]{Hoefler Text}\n")
         texfile.write("\\author{" + self.author + "}\n")
         texfile.write("\\title{" + self.dish_name + "}\n")
         texfile.write("\\date{}\n")  # empty date
