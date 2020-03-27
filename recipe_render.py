@@ -1,10 +1,7 @@
-#!/usr/local/bin/python3
-
 import json
 import sys
 import subprocess
 from multiprocessing import Pool
-from time import sleep
 
 
 class Recipe(object):
