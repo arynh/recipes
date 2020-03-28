@@ -1,3 +1,4 @@
+#!/usr/local/bin/python3
 import json
 import sys
 import subprocess
@@ -96,4 +97,4 @@ def json_to_pdf(filepath):
 if __name__ == "__main__":
     # start a pool of 4 workers to render the recipes
     # example call: python3 recipe_render.py recipe1.json recipe2.json
-    Pool(4).map(json_to_pdf, sys.argv[1:])
+    Pool(8).map(json_to_pdf, sys.argv[1:])
