@@ -1,0 +1,27 @@
+{
+  "dish_name": "Cyser",
+  "author": "u/StormBeforeDawn",
+  "source": "r/mead",
+  "notes": "Total volume: 1 gallon. Style: sweet cyser (subcategory of melomel). Carbonation: none. Target original gravity: 1.126. Target final gravity: 1.03-1.04. This is a simple melomel mead, although technically a form of cyser. This is intended to finish sweet, and will be drinkable sooner than dryer wines. It should be clear within a couple of months, and very drinkable within 3-6 months. Like all wines, this will continue to improve with age. US-05 yeast was chosen because of its relatively low alcohol tolerance, which should result in a sweet mead when following this recipe. If you replace US-05 with Lalvin 71B-1122, Lalvin D-45, Red Star Cote Des Blancs, Red Star Montrachet, or any wine yeast with a 14% upper tolerance, you may end up with a semi-sweet or off-dry mead. It will depend upon fermentation conditions and the accuracy of your measurements. This could also produce a completely bone-dry (no residual sugar) mead. The fruit juice can be replaced with most organic fruit juices that do not contain preservatives. More advanced melomels will use whole fruit. Purée fruit can be used as well. Juice and purée are often more readily available cheaply, in bulk, than whole fruits.",
+  "ingredients": [
+    "2 lbs honey",
+    "1 gallon apple juice or fresh cider",
+    "1 tsp diammonium phosphate (or yeast nutrient)",
+    "$\\frac{1}{2}$ tsp boiled bakers yeast",
+    "1 campden tablet, crushed",
+    "3-5 g Safale US-05 yeast (half packet)"
+  ],
+  "method": [
+    "Make sure that you sanitize everything.",
+    "In your fermentation vessel, add room temperature honey, then add room temperature juice or fresh cider until the total volume of the must is 1 gallon.",
+    "Pour dry yeast into must. If you are looking to start a little more advanced, consider using goferm and rehydrating your yeast according to the package instructions.",
+    "Add the DAP and Yeast Hulls.",
+    "If using a bucket, stir vigorously for 3-5 minutes. If using a carboy, seal with a cap or stopper and shake vigorously for 3-5 minutes, then unseal the container.",
+    "Take and record a gravity reading, if desired.",
+    "Close the container with a drilled stopper or drilled lid and airlock. Don't forget to add sanitizer or vodka to your airlock!",
+    "Place in a dark location at 60-75° F.",
+    "Signs of fermentation should appear in 24-48 hours. Fermentation should complete in 1-2 weeks. This is highly variable depending upon dozens of factors.",
+    "When fermentation is complete, siphon the mead (it is now mead!) into a new vessel. Be careful not to splash too much, nor to suck up too much of the sediment on the bottom (but some doesn't hurt anything). At this stage, you can add the crushed campden tablet to the new vessel. The siphoning action should dissolve it sufficiently.",
+    "When it is clear enough that you can read a newspaper print through it, it is ready to bottle, but you can also allow it to bulk age."
+  ]
+}
