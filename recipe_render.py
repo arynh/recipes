@@ -5,7 +5,7 @@ import subprocess
 from multiprocessing import Pool
 
 
-class Recipe(object):
+class Recipe:
     """
     Class to store information about a recipe.
     """
@@ -41,7 +41,7 @@ class Recipe(object):
         texfile = open(outfile, "w")
         # make header for initial document setup
         texfile.write(
-            "\\documentclass[12pt]{article}\n\\usepackage[margin=1in,landscape]{geometry}\n"
+            "\\documentclass[11pt]{article}\n\\usepackage[margin=0.75in,landscape]{geometry}\n"
         )
         texfile.write("\\usepackage{multicol}\n")
         texfile.write("\\usepackage{fontspec}\n")
@@ -49,6 +49,7 @@ class Recipe(object):
         texfile.write("\\author{" + self.author + "}\n")
         texfile.write("\\title{" + self.dish_name + "}\n")
         texfile.write("\\date{}\n")  # empty date
+        texfile.write("\\setlength\\columnsep{1.5in}\n")
         texfile.write("\\begin{document}\n\\begin{multicols*}{2}\n\\maketitle\n\n")
 
         # source
