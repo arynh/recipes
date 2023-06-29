@@ -1,0 +1,40 @@
+{
+  "dish_name": "Butter Chicken",
+  "author": "Rick Martinez",
+  "source": "Bon Appetit",
+  "notes": "Butter chicken was reportedly developed in the early 20th century in Delhi as a way to use leftover tandoori chicken so that the dried out chicken pieces can be softened with tomatoes, butter, and cream. Butter chicken is usually creamier, while chicken tikka masala, which was developed in the UK, tends to be spicier.",
+  "ingredients": [
+    "\\textit{For the marinade:}",
+    "$\\frac{1}{2}$ cup whole milk Greek yogurt",
+    "4 garlic cloves, grated",
+    "1 tablespoon fenugreek leaves (optional)",
+    "1 tablespoon finely grated ginger",
+    "2 teaspoons kosher salt",
+    "2 pounds boneless, skinless chicken thighs",
+    "\\textit{Then for the sauce and assembly:}",
+    "$\\frac{1}{2}$ cup (1 stick) cultured or unsalted butter, divided",
+    "1 3-inch cinnamon stick",
+    "5 green cardamom pods",
+    "1 whole clove",
+    "2 teaspoons fenugreek seeds (optional)",
+    "2 medium onions, sliced",
+    "2 serrano chiles, split lengthwise",
+    "Kosher salt",
+    "4 garlic cloves, grated",
+    "1 tablespoon finely grated ginger",
+    "1 tablespoon fenugreek leaves (optional)",
+    "1 tablespoon garam masala",
+    "1 teaspoon paprika",
+    "$\\frac{1}{2}$ teaspoon ground turmeric",
+    "2 28-ounce cans whole peeled tomatoes",
+    "$\\frac{1}{2}$ cup heavy cream",
+    "Chopped cilantro, steamed basmati rice, and naan (for serving)"
+  ],
+  "method": [
+    "Whisk yogurt, garlic, fenugreek leaves, if using, ginger, and salt in a medium bowl. Add chicken and toss to coat. Cover and chill at least 1 hour and up to 3.",
+    "Melt 4 Tbsp. butter in a large wide pot over medium heat. Cook cinnamon, cardamom pods, clove, and fenugreek seeds, if using, stirring, until slightly darker and fragrant, 1-2 minutes. Add onion and chiles, season with salt, and cook, stirring occasionally, until onion is golden and beginning to caramelize, 8-10 minutes. Add garlic and ginger and cook, stirring, until very fragrant and ginger starts to turn golden and sticks to bottom of pot, 2-3 minutes. Add fenugreek leaves, if using, garam masala, paprika, and turmeric and cook, stirring, until very fragrant, about 1 minute. Add tomatoes, breaking up into pieces with a spoon, and cook until brick red and most of the liquid is evaporated, about 1 minute. Using a potato masher or large spoon, smash tomatoes and continue to simmer, uncovered, until sauce is the consistency of a thick ragù, 40-50 minutes. Discard cinnamon stick (leave other whole spices).",
+    "Transfer mixture to a blender and purée until smooth. Cut remaining 4 Tbsp. butter into pieces. Add butter and cream to blender and purée until creamy; season with salt. Return sauce to pot and bring to a simmer.",
+    "Meanwhile, preheat broiler. Arrange chicken in a single layer on a wire rack set inside a foil-lined rimmed baking sheet. Broil until chicken starts to brown in spots (it will not be cooked through), 7-8 minutes per side. When cool enough to handle, cut into $\\frac{3}{4}$'' pieces. Add chicken to simmering sauce, cover, and cook until chicken is cooked through, 8-10 minutes.",
+    "Top chicken and sauce with cilantro. Serve with rice and naan alongside."
+  ]
+}
