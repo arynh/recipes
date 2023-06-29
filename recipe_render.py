@@ -41,16 +41,19 @@ class Recipe:
         texfile = open(outfile, "w")
         # make header for initial document setup
         texfile.write(
-            "\\documentclass[11pt]{article}\n\\usepackage[margin=0.75in,landscape]{geometry}\n"
+            "\\documentclass[11pt]{article}\n\\usepackage[margin=0.25in,papersize={8.5in,5.5in}]{geometry}\n"
         )
+        texfile.write("\\usepackage{relsize}\n")
         texfile.write("\\usepackage{multicol}\n")
         texfile.write("\\usepackage{fontspec}\n")
         texfile.write("\\setmainfont[Ligatures={Common}]{Hoefler Text}\n")
         texfile.write("\\author{" + self.author + "}\n")
         texfile.write("\\title{" + self.dish_name + "}\n")
         texfile.write("\\date{}\n")  # empty date
-        texfile.write("\\setlength\\columnsep{1.5in}\n")
-        texfile.write("\\begin{document}\n\\begin{multicols*}{2}\n\\maketitle\n\n")
+        texfile.write("\\setlength\\columnsep{0.5in}\n")
+        texfile.write(
+            "\\begin{document}\n\\relscale{0.8}\n\\begin{multicols*}{2}\n\\maketitle\n\n"
+        )
 
         # source
         if self.source:
@@ -96,6 +99,6 @@ def json_to_pdf(filepath):
 
 
 if __name__ == "__main__":
-    # start a pool of 4 workers to render the recipes
+    # start a pool of 8 workers to render the recipes
     # example call: python3 recipe_render.py recipe1.json recipe2.json
     Pool(8).map(json_to_pdf, sys.argv[1:])
